@@ -1,6 +1,6 @@
 # William
 
-研究教育和各种 AI 应用。
+Researching education and AI applications.
 
 ## ProofPay
 
