@@ -1,6 +1,6 @@
 # William
 
-Student. I build small tools, mostly search, agents, and payments.
+研究教育和各种 AI 应用。
 
 ## ProofPay
 
